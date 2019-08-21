@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test -IDE Suite">
+
+<test name= "migration" >
+        
+        <classes>
+            <class name="/migrationAutomation/src/main/java/com/account/migration/IDEAccountWithDevices.java" />
+        </classes>
+    </test>
+</suite>
